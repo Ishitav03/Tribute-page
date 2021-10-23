@@ -1,0 +1,29 @@
+body {
+      font-size:20px 
+}
+img{
+    width: 500px;
+    height: auto;
+    margin: 5mm;
+}
+figcaption{
+    margin-inline: 5cm;
+}
+div{
+    text-align: center;   
+}
+.class1{
+    background-color: rgb(194, 193, 178);
+}
+li{
+    margin: 16px;
+    margin-inline: 5cm;
+}
+h3{
+    text-align: center;
+}
+blockquote{
+    text-align: center;
+    font-style: italic;
+    margin: 0 auto 50px auto;
+}
