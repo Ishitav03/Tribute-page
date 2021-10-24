@@ -8,12 +8,13 @@ img{
 }
 figcaption{
     margin-inline: 5cm;
+    color: aliceblue;
 }
 div{
     text-align: center;   
 }
 .class1{
-    background-color: rgb(194, 193, 178);
+    background-color: rgb(68, 68, 65);
 }
 li{
     margin: 16px;
